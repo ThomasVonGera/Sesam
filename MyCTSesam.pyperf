@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>d1554c0c-8b56-4785-b3b5-adf769fc3db6</TargetProject>
+    <FriendlyName>MyCTSesam</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\thoma\AppData\Local\Temp\MyCTSesam_20170723.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
